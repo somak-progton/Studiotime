@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-10-09
+  start_time: 2019-10-09 17:25:08
+  end_time: 2019-10-09 17:25:08
+  booking_message: MyString
+  description: MyText
+  address: MyString
+  postal_code: 1
+  city: MyString
+  state: MyString
+  country: MyString
+  credit_card: 1
+
+two:
+  date: 2019-10-09
+  start_time: 2019-10-09 17:25:08
+  end_time: 2019-10-09 17:25:08
+  booking_message: MyString
+  description: MyText
+  address: MyString
+  postal_code: 1
+  city: MyString
+  state: MyString
+  country: MyString
+  credit_card: 1
